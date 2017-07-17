@@ -1,6 +1,6 @@
 # SuperMap Leaflet
 
-[![release](https://img.shields.io/badge/version-v0.0.1-blue.svg)](https://github.com/SuperMap/supermap-leaflet)
+[![release](https://img.shields.io/badge/version-v0.0.1beta-blue.svg)](https://github.com/SuperMap/supermap-leaflet)
 [![apache licensed](https://img.shields.io/badge/license-Apache-green.svg)](./LICENSE)
 
 [SuperMap Leaflet](https://github.com/SuperMap/supermap-leaflet) is a [Leaflet](http://leafletjs.com/) plugins for working with  SuperMap service types. 

@@ -1,6 +1,6 @@
 {
   "name": "supermap-leaflet",
-  "version": "0.0.1",
+  "version": "0.0.1-beta",
   "description": "A Leafle plugins for working with  SuperMap service types. Requires Leaflet v1.0.0 or later.",
   "main": "/dist/SuperMapLeaflet.js",
   "scripts": {

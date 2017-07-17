@@ -3,7 +3,7 @@
  *     SuperMap Leaflet.(https://github.com/SuperMap/supermap-leaflet#readme)
  *     Copyright© 2000-2017 SuperMap Software Co. Ltd
  *     license: Apache-2.0
- *     version: v0.0.1
+ *     version: v0.0.1-beta
  * 
  */
 /******/ (function(modules) { // webpackBootstrap
@@ -87,6 +87,10 @@ Object.defineProperty(exports, "__esModule", {
 exports.resolutionToScale = resolutionToScale;
 exports.scaleToResolution = scaleToResolution;
 exports.getMeterPerMapUnit = getMeterPerMapUnit;
+/**
+ *SuperMap Leaflet Util class
+ */
+
 //transform resolution to  scale.
 function resolutionToScale(resolution, dpi, mapUnit) {
     var inchPerMeter = 1 / 0.0254;
@@ -326,7 +330,7 @@ var tiledMapLayer = exports.tiledMapLayer = function tiledMapLayer(url, options)
 
 module.exports = {
 	"name": "supermap-leaflet",
-	"version": "0.0.1",
+	"version": "0.0.1-beta",
 	"description": "A Leafle plugins for working with  SuperMap service types. Requires Leaflet v1.0.0 or later.",
 	"main": "/dist/SuperMapLeaflet.js",
 	"scripts": {
