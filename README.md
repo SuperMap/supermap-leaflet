@@ -40,7 +40,7 @@ Here is an example you can put into your own .html file.
 We only provide tiled map module in this version.More exciting modules are coming soon.
 
 - List of API
-   - [TiledMapLayer](#TiledMapLayer)
+   - [TiledMapLayer](#tiledmaplayer)
    - coming soon
 
 ### TiledMapLayer
