@@ -3,7 +3,19 @@
 [![release](https://img.shields.io/badge/version-v0.0.1beta-blue.svg)](https://github.com/SuperMap/supermap-leaflet)
 [![apache licensed](https://img.shields.io/badge/license-Apache-green.svg)](./LICENSE)
 
-[SuperMap Leaflet](https://github.com/SuperMap/supermap-leaflet) is a [Leaflet](http://leafletjs.com/) plugins for working with  SuperMap service types. 
+## Introduction
+[leaflet]:http://leafletjs.com
+[supermap-leaflet]:https://github.com/SuperMap/supermap-leaflet
+[introduce]:http://iclient.supermapol.com/docs/leaflet.html#introduce
+[sourcecode]:https://gitee.com/isupermap/iClient9/tree/master/src/leaflet
+
+&nbsp;&nbsp;<font style="font-weight:bolder;font-size:16px;">English：</font> [SuperMap Leaflet][supermap-leaflet] is a part of [SuperMap iClient for Leaflet][introduce] , and can also be used as plugins for [Leaflet][leaflet] for working with  SuperMap service types. 
+
+&nbsp;&nbsp;<font style="font-weight:bolder;font-size:16px;">中文：</font>[SuperMap Leaflet][supermap-leaflet] 是 [SuperMap iClient for Leaflet][introduce] 产品的一部分，包含了部分功能 ，同时也属于[Leaflet][leaflet]的一个插件。
+
+* website：[http://iclient.supermapol.com/docs/leaflet.html#introduce][introduce]
+
+* source code：[https://gitee.com/isupermap/iClient9/tree/master/src/leaflet][sourcecode]
 
 Requires Leaflet v1.0.0 or later.
 
