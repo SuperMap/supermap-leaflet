@@ -7,7 +7,7 @@
 [leaflet]:http://leafletjs.com
 [supermap-leaflet]:https://github.com/SuperMap/supermap-leaflet
 [introduce]:http://iclient.supermapol.com/docs/leaflet.html#introduce
-[sourcecode]:https://gitee.com/isupermap/iClient9/tree/master/src/leaflet
+[sourcecode]:https://github.com/SuperMap/iClient9/tree/master/src/leaflet
 
 &nbsp;&nbsp;<font style="font-weight:bolder;font-size:16px;">English：</font> [SuperMap Leaflet][supermap-leaflet] is a part of [SuperMap iClient for Leaflet][introduce] , and can also be used as plugins for [Leaflet][leaflet] for working with  SuperMap service types. 
 
@@ -15,7 +15,7 @@
 
 * website：[http://iclient.supermapol.com/docs/leaflet.html#introduce][introduce]
 
-* source code：[https://gitee.com/isupermap/iClient9/tree/master/src/leaflet][sourcecode]
+* source code：[https://github.com/SuperMap/iClient9/tree/master/src/leaflet][sourcecode]
 
 Requires Leaflet v1.0.0 or later.
 
