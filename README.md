@@ -6,14 +6,14 @@
 ## Introduction
 [leaflet]:http://leafletjs.com
 [supermap-leaflet]:https://github.com/SuperMap/supermap-leaflet
-[introduce]:http://iclient.supermapol.com/docs/leaflet.html#introduce
+[introduce]:http://iclient.supermap.io/introduction/leaflet.html#introduce
 [sourcecode]:https://github.com/SuperMap/iClient9/tree/master/src/leaflet
 
 &nbsp;&nbsp;<font style="font-weight:bolder;font-size:16px;">English：</font> [SuperMap Leaflet][supermap-leaflet] is a part of [SuperMap iClient for Leaflet][introduce] , and can also be used as plugins for [Leaflet][leaflet] for working with  SuperMap service types. 
 
 &nbsp;&nbsp;<font style="font-weight:bolder;font-size:16px;">中文：</font>[SuperMap Leaflet][supermap-leaflet] 是 [SuperMap iClient for Leaflet][introduce] 产品的一部分，包含了部分功能 ，同时也属于[Leaflet][leaflet]的一个插件。
 
-* website：[http://iclient.supermapol.com/docs/leaflet.html#introduce][introduce]
+* website：[http://iclient.supermap.io/introduction/leaflet.html#introduce][introduce]
 
 * source code：[https://github.com/SuperMap/iClient9/tree/master/src/leaflet][sourcecode]
 
@@ -79,7 +79,7 @@ Creation
   `height`          | int            |  256        | Tile height from Server
   `prjCoordSys`     | Object         |  null       | Map's dynamic projection coordinate system. e.g.: {"epsgCode":3857}
   `overlapDisplayed`| Boolean        |  true       | Whether the map objects are overlap display in the same range
-  `overlapDisplayedOptions`| Object        |  null       | Overlap display filter options,valid only if 'overlapDisplayed' is false.See also [overlapDisplayedOptions](http://support.supermap.com.cn:8090/iserver/help/html/mergedProjects/iServerJavadoc/com/supermap/services/components/commontypes/OverlapDisplayedOptions.html)
+  `overlapDisplayedOptions`| Object        |  null       | Overlap display filter options,valid only if 'overlapDisplayed' is false.See also [overlapDisplayedOptions](http://support.supermap.com.cn:8090/iserver/help/html/zh/mergedProjects/iServerJavadoc/com/supermap/services/components/commontypes/OverlapDisplayedOptions.html)
   `tileversion`     | String         |  null       | Tile set version,valid only if 'cacheEnabled' is true.
   `redirect`        | Boolean        |  false      | If true , it will request the image's real url address
   `cacheEnabled`    | Boolean        |  true       | If true,the tiles images will use iServer cache,it will be faster to display whole map  
