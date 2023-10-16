@@ -1,6 +1,6 @@
 # supermap-leaflet 已停止维护！
 
-## 请前往[https://github.com/openlayers/openlayers](https://github.com/SuperMap/iClient-JavaScript)查看。
+## 请前往[https://github.com/SuperMap/iClient-JavaScript](https://github.com/SuperMap/iClient-JavaScript)查看。
 
 # SuperMap Leaflet
 
