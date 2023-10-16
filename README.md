@@ -1,3 +1,7 @@
+# supermap-leaflet 已停止维护！
+
+## 请前往[https://github.com/openlayers/openlayers](https://github.com/SuperMap/iClient-JavaScript)查看。
+
 # SuperMap Leaflet
 
 [![release](https://img.shields.io/badge/version-v0.0.1beta-blue.svg)](https://github.com/SuperMap/supermap-leaflet)
